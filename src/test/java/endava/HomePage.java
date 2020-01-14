@@ -46,6 +46,9 @@ public class HomePage extends resources1.GlobalSystemSetPropetie {
 		lpo.submit().click();
 		System.out.println(text);
 		System.out.println("Sanja sa gita kod");
+		System.out.println("Promena lica X 1.");
+		System.out.println("Promena lica X 2.");
+		System.out.println("Promena lica X 3.");
 		log.info(text+"Setovi podataka ");
 	}
 	

@@ -29,6 +29,10 @@ public class ValidateNavigatonBar extends GlobalSystemSetPropetie {
 		HomePageObjects hpo = new HomePageObjects(driver);
 		Assert.assertTrue(hpo.getNavBar().isDisplayed());
 		log.info("Successfully validated massagess.");
+		log.info("Git X lica");
+		log.info("Bas dosta radi.");
+		log.info("Vredan je.");
+		log.info("Super je.");
 
 		
 
