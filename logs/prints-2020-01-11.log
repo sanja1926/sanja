@@ -1,0 +1,6 @@
+00:39:57.448 [main] INFO  resources1.GlobalSystemSetPropetie - Navigated url in ValidateTitle.
+00:39:57.500 [main] INFO  resources1.GlobalSystemSetPropetie - Successfully validated title.
+23:34:34.733 [main] INFO  resources1.GlobalSystemSetPropetie - Driver is initialized in Navigation class.
+23:34:34.943 [main] INFO  resources1.GlobalSystemSetPropetie - Successfully validated massagess.
+23:34:37.907 [main] INFO  resources1.GlobalSystemSetPropetie - Driver is initialised in HomePage class.
+23:34:43.375 [main] INFO  resources1.GlobalSystemSetPropetie - Navigated desired url.

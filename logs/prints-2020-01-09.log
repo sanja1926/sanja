@@ -1,0 +1,6 @@
+00:39:23.840 [main] INFO  resources1.GlobalSystemSetPropetie - Successfully validated massagess.
+00:39:26.308 [main] INFO  resources1.GlobalSystemSetPropetie - Driver is initialised in HomePage class.
+00:39:30.598 [main] INFO  resources1.GlobalSystemSetPropetie - Navigated desired url.
+00:39:41.567 [main] INFO  resources1.GlobalSystemSetPropetie - Nonrestricted user. Setovi podataka 
+00:39:49.634 [main] INFO  resources1.GlobalSystemSetPropetie - Restricted user.Setovi podataka 
+00:39:52.173 [main] INFO  resources1.GlobalSystemSetPropetie - Driver is initialised in ValidateTitle class.

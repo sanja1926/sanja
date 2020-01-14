@@ -1,0 +1,4 @@
+23:37:54.445 [main] INFO  resources1.GlobalSystemSetPropetie - Driver is initialised in ValidateTitle class.
+23:37:58.595 [main] INFO  resources1.GlobalSystemSetPropetie - Navigated url in ValidateTitle.
+23:37:58.673 [main] INFO  resources1.GlobalSystemSetPropetie - Successfully validated title.
+23:37:58.713 [main] INFO  resources1.GlobalSystemSetPropetie - Successfully validated header.
