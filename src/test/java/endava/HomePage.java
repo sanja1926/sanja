@@ -45,6 +45,7 @@ public class HomePage extends resources1.GlobalSystemSetPropetie {
 		lpo.getPassword().sendKeys(password);
 		lpo.submit().click();
 		System.out.println(text);
+		System.out.println("Sanja sa gita kod");
 		log.info(text+"Setovi podataka ");
 	}
 	
