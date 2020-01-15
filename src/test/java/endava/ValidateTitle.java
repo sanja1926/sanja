@@ -35,6 +35,29 @@ public class ValidateTitle extends resources1.GlobalSystemSetPropetie {
 		hpo = new HomePageObjects(driver);
 		Assert.assertEquals(hpo.getTitle().getText(), "FEATURED COURSES");
 		log.info("Successfully validated title.");
+		
+
+		// Ako imamo vise srodnih testova koji propadaju ovoj otvorenoj stranici treba
+		// pisati u nastaku ovog testa izmedju @BeforeTest and @AfterTest
+
+	}
+	public void testTitleValidationHeader1() throws IOException, InterruptedException {
+
+		hpo = new HomePageObjects(driver);
+		Assert.assertEquals(hpo.getTitle().getText(), "FEATURED COURSES");
+		log.info("Successfully validated title.");
+		
+
+		// Ako imamo vise srodnih testova koji propadaju ovoj otvorenoj stranici treba
+		// pisati u nastaku ovog testa izmedju @BeforeTest and @AfterTest
+
+	}
+	public void testTitleValidationHeader2() throws IOException, InterruptedException {
+
+		hpo = new HomePageObjects(driver);
+		Assert.assertEquals(hpo.getTitle().getText(), "FEATURED COURSES");
+		log.info("Successfully validated title.");
+		
 
 		// Ako imamo vise srodnih testova koji propadaju ovoj otvorenoj stranici treba
 		// pisati u nastaku ovog testa izmedju @BeforeTest and @AfterTest

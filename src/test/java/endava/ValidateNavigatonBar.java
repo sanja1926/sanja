@@ -33,7 +33,9 @@ public class ValidateNavigatonBar extends GlobalSystemSetPropetie {
 		log.info("Bas dosta radi.");
 		log.info("Vredan je.");
 		log.info("Super je.");
-
+		log.info("Napravljen novi branch develop za razvoj.");
+		log.info("Napravljen novi branch develop za razvoj.");
+		log.info("Napravljen novi branch develop za razvoj.");
 		
 
 	

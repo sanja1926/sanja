@@ -49,6 +49,9 @@ public class HomePage extends resources1.GlobalSystemSetPropetie {
 		System.out.println("Promena lica X 1.");
 		System.out.println("Promena lica X 2.");
 		System.out.println("Promena lica X 3.");
+		System.out.println("Napravljen novi develop branch.");
+		System.out.println("Napravljen novi develop branch.");
+		System.out.println("Napravljen novi develop branch.");
 		log.info(text+"Setovi podataka ");
 	}
 	
