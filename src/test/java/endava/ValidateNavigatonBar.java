@@ -40,6 +40,24 @@ public class ValidateNavigatonBar extends GlobalSystemSetPropetie {
 
 	
 	}
+	@Test
+
+	public void testGitPersonX() throws IOException, InterruptedException {
+	
+		HomePageObjects hpo = new HomePageObjects(driver);
+		Assert.assertTrue(hpo.getNavBar().isDisplayed());
+		log.info("Successfully validated massagess.");
+		log.info("Git X lica");
+		log.info("Bas dosta radi.");
+		log.info("Vredan je.");
+		log.info("Super je.");
+		log.info("Napravljen novi branch develop za razvoj.");
+		log.info("Napravljen novi branch develop za razvoj.");
+		log.info("Napravljen novi branch develop za razvoj.");
+		
+
+	
+	}
 	 @AfterTest
 	   public void teardown() 
 	   {

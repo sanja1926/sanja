@@ -22,6 +22,7 @@ public class HomePage extends resources1.GlobalSystemSetPropetie {
 
 		driver.get(prop.getProperty("url"));
 		log.info("Navigated desired url.");
+		log.info("Person X push the code.");
 
 	}
 
